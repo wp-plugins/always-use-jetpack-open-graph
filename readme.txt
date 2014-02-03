@@ -1,4 +1,4 @@
-=== Always Use Jetpack Open Graph ===
+=== Always Use Open Graph with Jetpack ===
 Contributors: kraftbj
 Tags: Jetpack, open graph
 Requires at least: 3.7
