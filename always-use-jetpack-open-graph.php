@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Always Use Jetpack Open Graph
+Plugin Name: Always Use Open Graph with Jetpack
 Plugin URI: http://www.brandonkraft.com/
 Description: Jetpack automatically disables its Open Graph tags when there's a known plugin that already adds Open Graph tags, which is good. Sometimes, though, you might want to use Jetpack's version instead. Even if you disable the tags in the conflicting plugin, Jetpack won't add Open Graph tags without being told to do so.
 Version: 1.0
